@@ -14,4 +14,6 @@ Only tested on macOS. If it doesn't work on your computer, try editing the os.sy
 
 `cd ADS-B_RECV`
 
+`pip3 install -r requirements.txt`
+
 `python3 adsbrecv.py`
