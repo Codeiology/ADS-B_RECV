@@ -69,7 +69,7 @@ anim('''
                 `~-.__        ___..----..                  )             -=[Receivers provided by ADS-B One https://api.adsb.one]=-
                       `---~~\___________/------------`````
                       =  ===(_________D
-                                                                                         -=[Coded by Taj Entabi]=-
+                                                                                         -=[Coded by Codeiology @ Github]=-
                                                                                          
                                                                                                                       
                                                                                                                                
