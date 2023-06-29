@@ -224,7 +224,7 @@ if good2go:
             if rssi is not None:
                 anim(f"RECV_RSSI: {rssi}")
             else:
-                anim(f"RECV_RSST: NOT FOUND")
+                anim(f"RECV_RSSI: NOT FOUND")
             if craftyp is not None:
                 anim(f"Aircraft model: {craftyp}")
             else:
