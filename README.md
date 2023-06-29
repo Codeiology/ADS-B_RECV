@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- <img alt="ADS-B_RECV" src="https://public.nrao.edu/wp-content/themes/nrao/img/vla-features.png" height="140"/> -->
-  <img alt="logo" src="https://cdn.pixabay.com/photo/2021/12/30/10/34/satellite-6903687_640.png" height="200"
+  <img alt="ADS-B_RECV" src="https://public.nrao.edu/wp-content/themes/nrao/img/vla-features.png" height="220"/>
 </p>
 
 # ADS-B_RECV
